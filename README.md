@@ -2,7 +2,7 @@
 
 Project 7 by Landon Parris
 
-In this project, I had to create javaScript code (in Visual Studio Code) to do positive testing on the Urban Grocers API, as well as git commands (npx jest) to test these codes. I also used Postman to test the endpoints GET, POST, PUT, and DLELTE in the Urban Grocers API. I used javaScript commands such as const, let, try, catch, and expect in my code
+In this project, I had to create javaScript code (in Visual Studio Code) to do positive testing on the Urban Grocers API, as and use npx jest to test these codes. I also used Postman to test the endpoints GET, POST, PUT, and DLELTE in the Urban Grocers API. I used javaScript commands such as const, let, try, catch, and expect in my code
 
 Pre Conditions
 1. Copy Urban Grocers API URL to the config.js file in the hm07-qa-us folder
